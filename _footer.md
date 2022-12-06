@@ -1,0 +1,1 @@
+本平台由 [黄磊](https://github.com/uinx1983/uinx1983.github.io) 维护。 基于 [docsify](https://docsify.js.io) 创建。<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />
